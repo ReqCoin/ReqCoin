@@ -1,3 +1,3 @@
-FooCoin (FOO)
+ReqCoin (REQ)
 
 Blah, blah, blah.
